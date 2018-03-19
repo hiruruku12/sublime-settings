@@ -5,8 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"AutoFileName",
+		"BracketHighlighter",
 		"Package Control",
+		"SideBarEnhancements",
 		"SublimeCodeIntel"
 	]
 }
